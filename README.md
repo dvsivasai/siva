@@ -1,4 +1,3 @@
-//# siva
 #include<stdio.h>
 int main()
 {
